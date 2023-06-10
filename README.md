@@ -17,9 +17,4 @@ Start the application in the terminal with npm start.
 Seed the database in a new terminal with node seeds/index.js
 Open insomnia and use application!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+Walkthough Video URL: https://drive.google.com/file/d/1bhRdrX_ubbeb74gIPAlCl1UDjZ9iGz8V/view?usp=sharing
